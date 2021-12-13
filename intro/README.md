@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution here](https://github.com/promisszn/Frontend-Mentor-Challenges/tree/master/intro-component-with-signup-form-master)
+- Live Site URL: [live site here](https://promisszn.github.io/Frontend-Mentor-Challenges/intro)
 
 ## My process
 
